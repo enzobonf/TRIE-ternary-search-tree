@@ -1,0 +1,4 @@
+*.o
+*.nix
+*.d
+Makefile
